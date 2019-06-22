@@ -1,5 +1,11 @@
 #include <Servo.h>
 
+// Please note that the angles used for the default standing postions will
+// be highly dependent on the accuracy of your servo motor encoders.
+// Most microservos have inaccuracies of up to 15 degrees. The values I use
+// in this code were the 90 degree (pointing down) position that I obtained
+// from each respective servo by trial and error.
+
 // F = Forward, B = Back, L = Left, R = Right, 1 = Top, 2 = Bottom
 Servo Head;
 Servo FL1;
