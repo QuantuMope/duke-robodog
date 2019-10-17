@@ -1,7 +1,7 @@
 # [Duke: Voice Controlled Robot Dog](https://www.youtube.com/watch?v=mIvEY3RJ5Mg)
 <p align="center"> 
-<img src="Duke_Render.jpg" alt="drawing" width="600"/>
- <img src="Duke_physical.jpg" alt="drawing" width="600"/>
+<img src="Duke_Render.jpg" alt="drawing" width="425"/>
+ <img src="Duke_physical.jpg" alt="drawing" width="410"/>
  </p>
 
 Robot dog controlled by Arduino. A personal solo project that I completed while recovering from a surgery.  
